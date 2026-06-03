@@ -12,9 +12,9 @@ Imagine que a página principal (home-page) mostre uma visão dos vários itens 
 
 ## Prints do trabalho
 
-<<  COLOQUE A IMAGEM - HOME-PAGE - AQUI >>
+![tela inicial](public/assets/tela_inicial.png)
 
-<<  COLOQUE A IMAGEM - TELA DE DETALHES - AQUI >>
+![detalhes](public/assets/detalhes.png)
 
 ## Dados em JSON
 Inclua abaixo a estrutura de dados definida para o seu projeto, apresentando pelo menos dois exemplos de registros em formato JSON.
