@@ -3,7 +3,7 @@
 }
 
 body {
-    font-family: "Inter";
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     display: flex;
     justify-self: center;
     flex-direction: column;
