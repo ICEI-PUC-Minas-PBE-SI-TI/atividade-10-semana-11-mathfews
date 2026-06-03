@@ -31,7 +31,7 @@ const catalogo = [
             {
                 nome: "Chloë Grace Moretz",
                 foto: "https://media.themoviedb.org/t/p/w300_and_h450_face/yq4rYmaTRC5degaOYmJQFpaiho1.jpg",
-                tmdb: "https://www.themoviedb.org/person/5375-geoffrey-arend"
+                tmdb: "https://www.themoviedb.org/person/56734-chlo-grace-moretz"
             }
         ]
     },
