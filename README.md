@@ -6,9 +6,9 @@ Imagine que a página principal (home-page) mostre uma visão dos vários itens 
 
 ## Informações Gerais
 
-- Nome:
-- Matrícula:
-- Descreva brevemente seu projeto:
+- Nome: Matheus Felipe Costa William
+- Matrícula: 927495
+- Descreva brevemente seu projeto: Um repositório de filmes avalidados pelo usuário.
 
 ## Prints do trabalho
 
